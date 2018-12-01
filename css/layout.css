@@ -1,0 +1,107 @@
+@media screen and (min-width: 468px) and (max-width: 768px) {
+  nav {
+		height: 75px;
+	}
+	aside {
+		height: 150px;
+		width: 100%;
+		float: left;
+	}
+	#c {
+		height: 150px;
+		width: 100%;
+		float: left;
+	}
+	#d{
+		height: 150px;
+		width: 100%;
+		float: left;
+	}
+	#e{
+		height: 250px;
+		width: 50%;
+		float: left;
+	}
+	#f{
+		height: 250px;
+		width: 49.9%;
+		float: left;
+	}
+
+	#g{
+		height: 250px;
+		width: 49.9%;
+		float: left;
+	}
+	#h{
+		height: 250px;
+		width: 49.9%;
+		float: left;
+	}
+	#i{
+		height: 80px;
+		width:100%;
+		float: left;
+	}
+
+
+}
+
+@media screen and (min-width: 768px) {
+	nav {
+		height: 100px;
+		width:100%;
+	}
+	aside {
+		height: 600px;
+		width: 20%;
+		float: left;
+	}
+	section{
+		display: inline-block;
+	}
+	#c {
+		height: 200px;
+		width: 39.9%;
+		float: left;
+	}
+	#d {
+		height: 200px;
+		width: 40%;
+		float: left;
+	}
+	article{
+		display: inline-block;
+	}
+	#e{
+		height: 250px;
+		width: 19.9%;
+		float: left;
+		background-color: rgb(168, 255, 127);
+	}
+	#f{
+		height: 250px;
+		width: 20%;
+		float: left;
+		background-color: blue;
+	}
+	#g{
+		height: 250px;
+		width: 20%;;
+		float: left;
+		background-color: blueviolet;
+	}
+	#h{
+		height: 250px;
+		width: 20%;
+		float: left;
+		background-color: brown;
+	}
+	#i{
+		height: 150px;
+		width: 79.9%;
+		float: left;
+		background-color: rgb(18, 243, 119);
+	}
+
+}
